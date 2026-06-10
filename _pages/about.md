@@ -11,15 +11,15 @@ redirect_from:
 
 # ✨ About Me
 
-I am currently a first-year member of [MM Lab](https://mmlab.ie.cuhk.edu.hk/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/), under the supervision of Prof. [Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/). My research interests primarily lie in multimodal learning, computer vision, generative AI, and world modeling.
+I am currently a first-year member of [MM Lab](https://mmlab.ie.cuhk.edu.hk/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/), under the supervision of Prof. [Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/). My research interests primarily lie in multimodal learning, computer vision, generative AI, as well as world modeling.
 
-Before that, I received my master's degree from the School of Computer Science and Technology, [Xi'an Jiaotong University](https://www.xjtu.edu.cn/), supervised by Prof. [Heli Sun](https://gr.xjtu.edu.cn/en/web/hlsun). During my time at XJTU, I was recognized as an Outstanding Graduate Student of XJTU (Top 15 Master students) and as a 2026 "Qihang Role" Graduate Student, **which are the highest honors for enrolled and graduating students of XJTU**. I have published multiple first-author, co-first-author, and corresponding-author papers at top-tier CV/NLP/AI venues, including CVPR, ACM MM, EMNLP, ACL, IEEE TCSS, and IEEE TGRS. Meanwhile, I led the GenAI Group of XJTU SunFlower Lab and supervised talented master's and undergraduate students to publish papers at hot venues such as ICME and IJCAI.
+Before that, I received my master's degree from the School of Computer Science and Technology, [Xi'an Jiaotong University](https://www.xjtu.edu.cn/), supervised by Prof. [Heli Sun](https://gr.xjtu.edu.cn/en/web/hlsun). During my time at XJTU, I was recognized as an Outstanding Graduate Student of XJTU (Top 15 Master Students) and as a 2026 "Qihang Role" Graduate Student (Top 10 Graduate Students), **which are the highest honors for enrolled and graduating students of XJTU**. I have published multiple first-author, co-first-author, and corresponding-author papers at top-tier CV/NLP/AI venues, including CVPR, ACM MM, EMNLP, ACL, IEEE TCSS, and IEEE TGRS. Meanwhile, I led the GenAI Group of XJTU SunFlower Lab and supervised multiple master's and undergraduate students to publish papers at hot venues such as ICME and IJCAI.
 
 In 2023, I received my bachelor's degree from the School of Cyber Science and Engineering, [Zhengzhou University](https://www.zzu.edu.cn/), under the supervision of Prof. [Junxiao Xue](https://xuejx7.github.io/) (PI, Zhejiang Lab). At ZZU, I was recognized as the 2022-2023 Self-Improvement Star of Chinese College Students (**awarded to only one undergraduate student at ZZU**) and [Individual of ZZU Story](https://www.zzu.edu.cn/info/1217/82540.htm).
 
 As a native student from Henan Province, I am strongly motivated to support students from ZZU. I led the eMotionAI Lab at ZZU, where I guided multiple talented undergraduate students to pursue their Ph.D. and master's degrees at popular Chinese universities, including USTC, HIT, UCAS, RUC, XJTU, NWPU, XDU, and ZZU.
 
-During the 2026 autumn recruitment season, I have also been recognized by several AI companies through talent programs, including ByteDance's Soaring Star Talent Program and Xiaomi Group's Future Star Talent Program.
+During the 2026 autumn recruitment season, I have also been recognized by several AI companies through talent programs, including **ByteDance's Soaring Star Talent Program** and **Xiaomi Group's Future Star Talent Program**.
 
 My CSDN technology blogs are located [here](https://blog.csdn.net/m0_47623548). Please feel free to contact me if you are interested in my works and potential collaborations 🙌.
 
@@ -40,6 +40,7 @@ I am interested in developing a **Predictive Brain** framework through a **Primi
 <div class="news-scroll" markdown="1">
 
 - *2026.05*: One paper is submitted to IEEE TCSS 2026.
+- *2026.04*: Three papers are submitted to ACM MM 2026.
 - *2026.04*: Two papers are accepted by ACL 2026 Main Conference 🎉!
 - *2026.03*: One paper is accepted by ICME 2026 🎉!
 - *2026.02*: Three papers are accepted by CVPR 2026 🎉!
@@ -63,7 +64,7 @@ I am interested in developing a **Predictive Brain** framework through a **Primi
 # 🎓 Education
 
 - *2026.09 - 2030.07 (Expected)*, **Ph.D. in Artificial Intelligence**, Department of Electronic Engineering, The Chinese University of Hong Kong. Supervisor: Prof. [Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/).
-- *2023.09 - 2026.07 (Expected)*, **M.Eng. in Computer Technology**, School of Computer Science and Engineering, Xi'an Jiaotong University. GPA: 3.8/4.0, Rank: 1/191. Supervisor: Prof. [Heli Sun](https://gr.xjtu.edu.cn/en/web/hlsun).
+- *2023.09 - 2026.07*, **M.Eng. in Computer Technology**, School of Computer Science and Engineering, Xi'an Jiaotong University. GPA: 3.8/4.0, Rank: 1/191. Supervisor: Prof. [Heli Sun](https://gr.xjtu.edu.cn/en/web/hlsun).
 - *2019.09 - 2023.07*, **B.Eng. in Internet of Things Engineering**, School of Cyber Science and Engineering, Zhengzhou University. GPA: 3.5/4.0, Rank: 3/237. Supervisor: Prof. [Junxiao Xue](https://xuejx7.github.io/).
 
 # 💼 Internships
@@ -336,7 +337,7 @@ Xuechun Liu, Heli Sun, **Xuecheng Wu**, Ruichen Cao, Yunyun Shi, Dingkang Yang, 
 1. **[Code-driven Number Sequence Calculation: Enhancing the Inductive Reasoning Abilities of Large Language Models](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=MuTEp7sAAAAJ&pagesize=100&citation_for_view=MuTEp7sAAAAJ:k_IJM867U9cC)**.<br>
 Kedi Chen, Zhikai Lei, Xu Guo, **Xuecheng Wu**, Siyuan Zeng, Jianghao Yin, Yinqi Zhang, Qin Chen, Jie Zhou, Liang He, Qipeng Guo, Kai Chen, Wei Zhang. **arXiv 2025**.
 1. **[End4: End-to-end Denoising Diffusion for Diffusion-Based Inpainting Detection](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=MuTEp7sAAAAJ&pagesize=100&citation_for_view=MuTEp7sAAAAJ:4JMBOYKVnBMC)**.<br>
-Fei Wang, **Xuecheng Wu**, Zijian Zhang, Danlei Huang, Yifei Huang, Bo Wang. **arXiv 2025**.
+Fei Wang, **Xuecheng Wu**, Zheng Zhang, Danlei Huang, Yuheng Huang, Bo Wang. **arXiv 2025**.
 1. **[InfoSyncNet: Information Synchronization Temporal Convolutional Network for Visual Speech Recognition](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=MuTEp7sAAAAJ&pagesize=100&citation_for_view=MuTEp7sAAAAJ:ldfaerwXgEUC)**.<br>
 Junxiao Xue, Xiaozhen Liu, **Xuecheng Wu**, Fei Yu, Jun Wang. **IJCNN 2025** <span style="color:red">[CCF-C]</span>.
 1. **[MirrorDiff: Learning Mirror Diffusion for Image Captioning via Regeneration](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=MuTEp7sAAAAJ&pagesize=100&citation_for_view=MuTEp7sAAAAJ:dhFuZR0502QC)**.<br>
