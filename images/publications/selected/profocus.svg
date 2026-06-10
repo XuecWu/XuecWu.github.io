@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e8f1ff"/>
+      <stop offset="100%" stop-color="#f9fbff"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="520" rx="28" fill="url(#g)"/>
+  <rect x="26" y="26" width="848" height="468" rx="24" fill="none" stroke="#9bbbe8" stroke-width="3" stroke-dasharray="12 10"/>
+  <text x="40" y="70" font-size="24" font-family="Arial, Helvetica, sans-serif" fill="#3366aa">CVPR 2026</text>
+  <g font-family="Arial, Helvetica, sans-serif"><text x="40" y="120" font-size="30" font-weight="700" fill="#10243e">ProFocus</text></g>
+  <text x="40" y="450" font-size="20" font-family="Arial, Helvetica, sans-serif" fill="#6a7a90">Model/teaser figure placeholder — to be replaced by paper crop</text>
+</svg>
