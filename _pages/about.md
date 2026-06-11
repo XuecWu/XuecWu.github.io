@@ -367,7 +367,7 @@ NTIRE 2025 T2I Quality Assessment Challenge Participants, including **Xuecheng W
 - **Truthful and Responsible Multimodal Learning Challenge**, Winner @ ACM MM 2025.
 - **National Undergraduate Software Innovation Competition**, First Prize in Northwest Division and National Third Prize, 2025.
 - **New Trends in Image Restoration and Enhancement (NTIRE) Challenge**, Runner-up @ CVPR 2025.
-- **The 19th Chinese "Challenge Cup" National Undergraduate Academic Science and Technology Works Competition, Grand Challenge Track**, National First Prize, 2024.
+- **The 19th Chinese "Challenge Cup" National Undergraduate Academic Science and Technology Works Competition**, National First Prize, 2024.
 - **"China Net Valley · Huawei Cup" China Graduate Cybersecurity Innovation Competition**, National Third Prize, 2024.
 - **1M-Deepfakes Detection Grand Challenge**, Winner @ ACM MM 2024.
 - **"Huawei Cup" China Graduate Artificial Intelligence Innovation Competition**, National Third Prize, 2024.
@@ -386,14 +386,17 @@ NTIRE 2025 T2I Quality Assessment Challenge Participants, including **Xuecheng W
 
 # 💖 Honors
 
-- **First Prize**, Xi'an Jiaotong University 37th "Tengfei Cup" Innovation and Entrepreneurship Competition.
+- **"Qihang Role"** Graduate Student (Awarded to Top 10 Graduate Students), 2026.
+- **First Prize**, Xi'an Jiaotong University 37th "Tengfei Cup" Innovation and Entrepreneurship Competition, 2026.
 - **National Scholarship**, Ministry of Education of the People's Republic of China (National-Level Honor), 2025.
 - **Outstanding Graduate Student**, Xi'an Jiaotong University (Awarded to Top 15 Master Students), 2025.
 - **Tencent Scholarship**, 2025.
 - **ByteDance Soaring Star Talent Program**, 2025.
 - **Xiaomi Future Star Talent Program**, 2025.
+- **ROYALFLUSH INFO AIME Talent Program**, 2025.
+- **Sangfor Technologies X-Star Talent Program**, 2025.
 - **Special Scholarship for Graduate Students**, Xi'an Jiaotong University, 2023-2024.
-- **Outstanding Graduate Student**, Xi'an Jiaotong University, 2023-2024.
+- **Excellent Graduate Student**, Xi'an Jiaotong University, 2023-2024.
 - **Inspur Group Outstanding Graduate Academic Scholarship**, Xi'an Jiaotong University, 2023-2024.
 - **The Stars of Self-Improvement of Chinese College Students**, National-Level Honor, 2023 (the only awardee from Zhengzhou University that year; ranked first in Henan Province). [Link](https://www.zzu.edu.cn/info/1217/81980.htm)
 - **Freshman First Prize Scholarship for Graduate Students**, Xi'an Jiaotong University, 2023.
@@ -414,7 +417,7 @@ NTIRE 2025 T2I Quality Assessment Challenge Participants, including **Xuecheng W
 # 🌹 Academic Services
 
 - **Conference Reviewer:** CVPR, ICCV, NeurIPS, WWW, CICAI, ACM MM, ICME, IEEE BigData, IJCNN, IEEE AVSS, IEEE SMC, EMNLP, AAAI, BMVC, ICML (Silver Reviewer), ECCV.
-- **Journal Reviewer:** IEEE TMM, Knowledge-Based Systems, IEEE TKDE, Intelligent Computing, ACM TOMM, IEEE GRSL.
+- **Journal Reviewer:** IEEE TMM, Knowledge-Based Systems (KBS), IEEE TKDE, Intelligent Computing, ACM TOMM, IEEE GRSL, IEEE TCSS.
 
 # 🤝 Mentorship
 
