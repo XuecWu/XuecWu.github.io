@@ -17,7 +17,7 @@ Before that, I received my master's degree from the School of Computer Science a
 
 In 2023, I received my bachelor's degree from the School of Cyber Science and Engineering, [Zhengzhou University](https://www.zzu.edu.cn/), under the supervision of Prof. [Junxiao Xue](https://xuejx7.github.io/) (PI, Zhejiang Lab). At ZZU, I was recognized as the 2022-2023 Self-Improvement Star of Chinese College Students (**awarded to only one undergraduate student at ZZU**) and [Individual of ZZU Story](https://www.zzu.edu.cn/info/1217/82540.htm).
 
-As a native student from Henan Province, I am strongly motivated to support students from ZZU. I led the eMotionAI Lab at ZZU, where I guided multiple talented undergraduate students to pursue their Ph.D. and master's degrees at popular Chinese universities, including USTC, HIT, UCAS, RUC, XJTU, NWPU, XDU, and ZZU.
+As a native student from Henan Province, and out of gratitude to my hometown and alma mater, I am strongly motivated to support students from ZZU. I led the eMotionAI Lab of ZZU Students Innovative Entrepreneurial Base (North Campus), where I guided multiple talented undergraduate students to pursue their Ph.D. or master's degrees at awesome Chinese universities, including USTC, HIT, UCAS, RUC, XJTU, NWPU, XDU, as well as ZZU.
 
 During the 2026 autumn recruitment season, I have also been recognized by several AI companies through talent programs, including **ByteDance's Soaring Star Talent Program** and **Xiaomi Group's Future Star Talent Program**.
 
