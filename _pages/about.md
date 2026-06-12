@@ -31,7 +31,7 @@ My CSDN technology blogs are located [here](https://blog.csdn.net/m0_47623548). 
 - **Audio-Visual Video Generation and Understanding:** audio-visual representation learning, affective video analysis, and controllable video generation.
 - **Multimodal Safety and Trustworthiness:** deepfake/AIGC detection, hallucination/factuality detection, and red teaming for multimodal/large language models.
 
-## Research Proposal
+## 💐 Research Goal
 
 I am interested in developing a **Predictive Brain** framework through a **Primitives-to-Synergy** suite, empowering embodied agents with omni-modal world simulation to bridge the cognitive-physical gap toward reliable and physically grounded AGI.
 
