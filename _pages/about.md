@@ -63,7 +63,7 @@ I am interested in developing a **Predictive Brain** framework through a **Primi
 
 # 🎓 Education
 
-- *2026.09 - 2030.07 (Expected)*, **Ph.D. in Artificial Intelligence**, Department of Electronic Engineering, The Chinese University of Hong Kong. Supervisor: Prof. [Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/).
+- *2026.09 - 2030.07 (Expected)*, **Ph.D. Candidate in Artificial Intelligence**, Department of Electronic Engineering, The Chinese University of Hong Kong. Supervisor: Prof. [Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/).
 - *2023.09 - 2026.07*, **M.Eng. in Computer Technology**, School of Computer Science and Engineering, Xi'an Jiaotong University. GPA: 3.8/4.0, Rank: 1/191. Supervisor: Prof. [Heli Sun](https://gr.xjtu.edu.cn/en/web/hlsun).
 - *2019.09 - 2023.07*, **B.Eng. in Internet of Things Engineering**, School of Cyber Science and Engineering, Zhengzhou University. GPA: 3.5/4.0, Rank: 3/237. Supervisor: Prof. [Junxiao Xue](https://xuejx7.github.io/).
 
