@@ -217,24 +217,24 @@ Shi Chen<sup>*</sup>, **Xuecheng Wu**<sup>*</sup>, Heli Sun, Yunyun Shi, Xinyi Y
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/publications/selected/fed-bench.png?v=20260609_lark' alt="FED-Bench" width="95%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/publications/selected/fed-bench.png?v=20260609_lark' alt="FED-Bench" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **13.** [FED-Bench: A Cross-Granular Benchmark for Disentangled Evaluation of Facial Expression Editing](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=MuTEp7sAAAAJ&pagesize=100&citation_for_view=MuTEp7sAAAAJ:u_35RYKgDlwC)<br>
 Fengjian Xue<sup>*</sup>, **Xuecheng Wu**<sup>*</sup>, Heli Sun, Yunyun Shi, Shi Chen, Liangyu Fu, Jinheng Xie, Dingkang Yang, Hao Wang, Junxiao Xue, Liang He
 
-**arXiv 2026**
+**ECCV 2026**
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/publications/selected/aerorag.png?v=20260609_lark' alt="AeroRAG" width="95%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE SMC 2026</div><img src='images/publications/selected/aerorag.png?v=20260609_lark' alt="AeroRAG" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **14.** [AeroRAG: Structured Multimodal Retrieval-Augmented LLM for Fine-Grained Aerial Visual Reasoning](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=MuTEp7sAAAAJ&pagesize=100&citation_for_view=MuTEp7sAAAAJ:a0OBvERweLwC)<br>
 Junxiao Xue, Quan Deng, Tingqi Hu, Meicong Si, Xinyi Yin, Yunyun Shi, **Xuecheng Wu**✉
 
-**arXiv 2026**
+**IEEE SMC 2026**
 
 </div>
 </div>
