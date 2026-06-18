@@ -137,13 +137,13 @@ Zijian Zhang<sup>*</sup>, **Xuecheng Wu**<sup>*</sup>, Danlei Huang, Siyu Yan, C
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to IEEE TIP</div><img src='images/publications/selected/vic-bench.jpg' alt="ViC-Bench" width="95%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to IEEE TIP 2025</div><img src='images/publications/selected/vic-bench.jpg' alt="ViC-Bench" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **6.** [ViC-Bench: Benchmarking Visual-Interleaved Chain-of-Thought Capability in MLLMs with Free-Style Intermediate State Representations](https://arxiv.org/pdf/2505.14404)<br>
 **Xuecheng Wu**, Jiaxing Liu, Danlei Huang, Yifan Wang, Yunyun Shi, Kedi Chen, Junxiao Xue, Yang Liu, Chunlin Chen, Hairong Dong, Dingkang Yang
 
-**Submitted to IEEE TIP** <span style="color:red">[CCF-A]</span>  
+**Submitted to IEEE TIP 2025** <span style="color:red">[CCF-A]</span>  
 [**Dataset**](https://huggingface.co/datasets/meituan/ViC-Bench)
 
 </div>
@@ -239,13 +239,13 @@ Junxiao Xue, Quan Deng, Tingqi Hu, Meicong Si, Xinyi Yin, Yunyun Shi, **Xuecheng
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to IEEE TCSS</div><img src='images/publications/selected/mood.png?v=20260609_lark' alt="MooD" width="95%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to IEEE TCSS 2026</div><img src='images/publications/selected/mood.png?v=20260609_lark' alt="MooD" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **15.** [MooD: Perception-Enhanced Efficient Affective Image Editing via Continuous Valence-Arousal Modeling](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=MuTEp7sAAAAJ&pagesize=100&citation_for_view=MuTEp7sAAAAJ:f2IySw72cVMC)<br>
 Xinyi Yin, Yiduo Wang, Tingqi Hu, Meicong Si, Yunyun Shi, Shi Chen, Hao Wang, Junxiao Xue, **Xuecheng Wu**✉
 
-**Submitted to IEEE TCSS**
+**Submitted to IEEE TCSS 2026**
 
 </div>
 </div>
@@ -387,7 +387,7 @@ NTIRE 2025 T2I Quality Assessment Challenge Participants, including **Xuecheng W
 
 # 💖 Honors
 
-- **"Qihang Role"** Graduate Student (Awarded to Top 10 Graduate Students), 2026.
+- **"Qihang Role"** Graduate Student, Xi'an Jiaotong University (Awarded to Top 10 Graduate Students), 2026.
 - **First Prize**, Xi'an Jiaotong University 37th "Tengfei Cup" Innovation and Entrepreneurship Competition, 2026.
 - **National Scholarship**, Ministry of Education of the People's Republic of China (National-Level Honor), 2025.
 - **Outstanding Graduate Student**, Xi'an Jiaotong University (Awarded to Top 15 Master Students), 2025.
