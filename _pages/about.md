@@ -223,7 +223,7 @@ Shi Chen<sup>*</sup>, **Xuecheng Wu**<sup>*</sup>, Heli Sun, Yunyun Shi, Xinyi Y
 **13.** [FED-Bench: A Cross-Granular Benchmark for Disentangled Evaluation of Facial Expression Editing](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=MuTEp7sAAAAJ&pagesize=100&citation_for_view=MuTEp7sAAAAJ:u_35RYKgDlwC)<br>
 Fengjian Xue<sup>*</sup>, **Xuecheng Wu**<sup>*</sup>, Heli Sun, Yunyun Shi, Shi Chen, Liangyu Fu, Jinheng Xie, Dingkang Yang, Hao Wang, Junxiao Xue, Liang He
 
-**ECCV 2026**
+**ECCV 2026** <span style="color:red">[CCF-B]</span>
 
 </div>
 </div>
@@ -234,7 +234,7 @@ Fengjian Xue<sup>*</sup>, **Xuecheng Wu**<sup>*</sup>, Heli Sun, Yunyun Shi, Shi
 **14.** [AeroRAG: Structured Multimodal Retrieval-Augmented LLM for Fine-Grained Aerial Visual Reasoning](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=MuTEp7sAAAAJ&pagesize=100&citation_for_view=MuTEp7sAAAAJ:a0OBvERweLwC)<br>
 Junxiao Xue, Quan Deng, Tingqi Hu, Meicong Si, Xinyi Yin, Yunyun Shi, **Xuecheng Wu**✉
 
-**IEEE SMC 2026**
+**IEEE SMC 2026** <span style="color:red">[CCF-C]</span>
 
 </div>
 </div>
