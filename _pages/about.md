@@ -21,7 +21,7 @@ As a native student from Henan Province, and out of gratitude to my hometown and
 
 During the 2026 autumn recruitment season, I have also been recognized by several AI companies through talent programs, including **ByteDance's Soaring Star Talent Program** and **Xiaomi Group's Future Star Talent Program**.
 
-My CSDN technology blogs are located [here](https://blog.csdn.net/m0_47623548). Please feel free to contact me if you are interested in my works and potential collaborations 🙌.
+My CSDN technological blogs are located [here](https://blog.csdn.net/m0_47623548). Please feel free to contact me if you are interested in my works and potential collaborations 🙌.
 
 # 🔬 Research Interests
 
