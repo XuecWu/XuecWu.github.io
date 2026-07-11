@@ -38,6 +38,7 @@ I am interested in developing a **Predictive Brain** framework through a **Primi
 # 🔥 News
 
 <div class="news-scroll" markdown="1">
+- *2026.07*: Two papers are accepted by ACM MM 2026 🎉!
 - *2026.06*: One paper is accepted by ECCV 2026 🎉!
 - *2026.06*: One paper is accepted by IEEE SMC 2026 🎉!
 - *2026.05*: One paper is submitted to IEEE TCSS 2026.
