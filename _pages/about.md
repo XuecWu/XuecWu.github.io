@@ -13,23 +13,23 @@ redirect_from:
 
 I am currently a first-year member of [MM Lab](https://mmlab.ie.cuhk.edu.hk/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/), under the supervision of Prof. [Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/). My research interests primarily lie in multimodal learning, computer vision, generative AI, as well as world modeling.
 
-Before that, I received my master's degree from the School of Computer Science and Technology, [Xi'an Jiaotong University](https://www.xjtu.edu.cn/), supervised by Prof. [Heli Sun](https://gr.xjtu.edu.cn/en/web/hlsun). During my time at XJTU, I was recognized as a 2025 Outstanding Graduate Student of XJTU (Top 15 Master Students) and as a 2026 "Qihang Role" Graduate Student (Top 10 Graduate Students), **which are the highest honors for enrolled and graduating students of XJTU**. I have published multiple first-author, co-first-author, and corresponding-author papers at top-tier CV/NLP/AI venues, including CVPR, ECCV, ACM MM, EMNLP, ACL, IEEE TCSS, and IEEE TGRS. Meanwhile, I led the GenAI Group of XJTU SunFlower Lab and supervised multiple master's and undergraduate students to publish papers at hot venues such as ACM MM, ECCV, IJCAI, IEEE ICME, IEEE SMC, and IJCNN.
+Before that, I received my master's degree from the School of Computer Science and Technology, [Xi'an Jiaotong University](https://www.xjtu.edu.cn/), supervised by Prof. [Heli Sun](https://gr.xjtu.edu.cn/en/web/hlsun). During my time at XJTU, I was recognized as a 2025 Outstanding Graduate Student of XJTU (Top 15 Master Students) and as a 2026 "Qihang Role" Graduate Student (Top 10 Graduate Students), <span style="color:red">**which are the highest honors for enrolled and graduating students of XJTU**</span>. I have published multiple first-author, co-first-author, and corresponding-author papers at top-tier CV/NLP/AI venues, including CVPR, ECCV, ACM MM, EMNLP, ACL, IEEE TCSS, and IEEE TGRS. Meanwhile, I led the GenAI Group of XJTU SunFlower Lab and supervised multiple master's and undergraduate students to publish papers at hot venues such as ACM MM, ECCV, IJCAI, IEEE ICME, IEEE SMC, and IJCNN.
 
-In 2023, I received my bachelor's degree from the School of Cyber Science and Engineering, [Zhengzhou University](https://www.zzu.edu.cn/), under the supervision of Prof. [Junxiao Xue](https://xuejx7.github.io/) (PI, Zhejiang Lab and [Zhejiang University](https://www.zju.edu.cn/)). At ZZU, I was recognized as the 2022-2023 Self-Improvement Star of Chinese College Students (**awarded to only one undergraduate student at ZZU**) and [Individual of ZZU Story](https://www.zzu.edu.cn/info/1217/82540.htm).
+In 2023, I received my bachelor's degree from the School of Cyber Science and Engineering, [Zhengzhou University](https://www.zzu.edu.cn/), under the supervision of Prof. [Junxiao Xue](https://xuejx7.github.io/) (PI, Zhejiang Lab and [Zhejiang University](https://www.zju.edu.cn/)). At ZZU, I was recognized as the 2022-2023 Self-Improvement Star of Chinese College Students (<span style="color:red">**awarded to only one undergraduate student at ZZU**</span>) and [Individual of ZZU Story](https://www.zzu.edu.cn/info/1217/82540.htm).
 
 As a native student from Henan Province, and out of gratitude to my hometown and alma mater, I am strongly motivated to support students from ZZU. I led the eMotionAI Lab of ZZU Students Innovative Entrepreneurial Base (North Campus), where I guided multiple talented undergraduate students to pursue their Ph.D. or master's degrees at awesome Chinese universities, including USTC, HIT, UCAS, RUC, XJTU, NWPU, XDU, NUDT, as well as ZZU.
 
 During the 2026 autumn recruitment season, I have also been recognized by several AI companies through talent programs, including **ByteDance's Soaring Star Talent Program** and **Xiaomi Group's Future Star Talent Program**.
 
-My CSDN technological blogs are located [here](https://blog.csdn.net/m0_47623548). Please feel free to contact me if you are interested in my works and potential collaborations 🙌.
+My CSDN technological blogs are located [HERE](https://blog.csdn.net/m0_47623548). Please feel free to contact me if you are interested in my works and potential collaborations 🙌.
 
 # 🔬 Research Interests
 
-- **World Models and Embodied AI:** omni-modal world simulation, predictive modeling, and physically grounded agent intelligence.
-- **Multimodal Large Language Models (MLLMs):** unified large multimodal models, vision-language model, and visual-interleaved chain-of-thought reasoning.
-- **Agentic AI:** agentic evaluation, tool-using/interactive agents, and reliable long-horizon multimodal decision making.
+- **World Models and Embodied AI:** omni-modal world simulation, predictive modeling, and physically-grounded agents.
+- **Multimodal Large Language Models (MLLMs):** unified large multimodal models, vision-language model, and visual-interleaved CoT reasoning.
+- **Agentic AI:** agentic evaluation, reliable long-horizon multimodal decision making.
 - **Audio-Visual Video Generation and Understanding:** audio-visual representation learning, affective video analysis, and controllable video generation.
-- **Multimodal Safety and Trustworthiness:** deepfake/AIGC detection, hallucination/factuality detection, and red teaming for multimodal/large language models.
+- **Multimodal Safety and Trustworthiness:** deepfake detection, hallucination detection, and red teaming for LLMs.
 
 ## 💐 Research Goal
 
@@ -73,7 +73,7 @@ I am interested in developing a **Predictive Brain** framework through a **Primi
 
 - *2026.04 - 2026.07*, **Research Intern of Soaring Star Talent Program**, Data-Douyin, ByteDance.
   - Worked on AI-native Agent-driven frontier exploration for multimodal large language models.
-- *2025.05 - 2025.12*, **Research Intern of Soaring Star Talent Program**, Douyin Content Team, ByteDance.
+- *2025.05 - 2025.12*, **Research Intern of Soaring Star Talent Program**, Data-Douyin, ByteDance.
   - Worked on hierarchical interleaved augmented unified large multimodal models, reward quantification for visual text rendering, dynamic data mixture for LLM pre-training, and universal document parsing VLMs.
 - *2025.01 - 2025.05*, **Research Intern**, LongCat Foundational Model Team, Meituan-M17.
   - Worked on visual-interleaved CoT evaluation for MLLMs, multimodal distillation for hallucination/factuality detection, LLM red teaming, and text-to-image alignment assessment.
