@@ -38,6 +38,7 @@ I am interested in developing a **Predictive Brain** framework through a **Primi
 # 🔥 News
 
 <div class="news-scroll" markdown="1">
+- *2026.07*: Awarded the title of Outstanding Master's Thesis by XJTU!
 - *2026.07*: Two papers are accepted by ACM MM 2026 🎉!
 - *2026.06*: One paper is accepted by ECCV 2026 🎉!
 - *2026.06*: One paper is accepted by IEEE SMC 2026 🎉!
@@ -388,6 +389,7 @@ NTIRE 2025 T2I Quality Assessment Challenge Participants, including **Xuecheng W
 
 # 💖 Honors
 
+- **"Excellent Master's Thesis**, Xi'an Jiaotong University, 2026. [Link](https://gs.xjtu.edu.cn/info/1148/11542.htm)
 - **"Qihang Role" Graduate Student**, Xi'an Jiaotong University (Awarded to Top 10 Graduate Students), 2026.
 - **First Prize**, Xi'an Jiaotong University 37th "Tengfei Cup" Innovation and Entrepreneurship Competition, 2026.
 - **National Scholarship**, Ministry of Education of the People's Republic of China (National-Level Honor), 2025.
