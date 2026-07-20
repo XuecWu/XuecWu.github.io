@@ -389,7 +389,7 @@ NTIRE 2025 T2I Quality Assessment Challenge Participants, including **Xuecheng W
 
 # 💖 Honors
 
-- **"Excellent Master's Thesis**, Xi'an Jiaotong University, 2026. [Link](https://gs.xjtu.edu.cn/info/1148/11542.htm)
+- **Excellent Master's Thesis**, Xi'an Jiaotong University, 2026. [Link](https://gs.xjtu.edu.cn/info/1148/11542.htm)
 - **"Qihang Role" Graduate Student**, Xi'an Jiaotong University (Awarded to Top 10 Graduate Students), 2026.
 - **First Prize**, Xi'an Jiaotong University 37th "Tengfei Cup" Innovation and Entrepreneurship Competition, 2026.
 - **National Scholarship**, Ministry of Education of the People's Republic of China (National-Level Honor), 2025.
