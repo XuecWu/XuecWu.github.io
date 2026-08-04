@@ -72,7 +72,7 @@ I am interested in developing a **Predictive Brain** framework through a **Primi
 
 # 💼 Internships
 
-- *2026.07 - Present*, **Research Intern**, ACE Rebotics, SenseTime.
+- *2026.07 - Present*, **Research Intern**, ACE Robotics, SenseTime.
   - Worked on VLM-conditioned world action models and other embodied AI techniques.
 - *2026.04 - 2026.07*, **Research Intern of Soaring Star Talent Program**, Data-Douyin, ByteDance.
   - Worked on AI-native Agent-driven frontier exploration for multimodal large language models.
