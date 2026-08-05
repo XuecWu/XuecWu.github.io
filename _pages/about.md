@@ -13,7 +13,7 @@ redirect_from:
 
 I am currently a first-year member of [MM Lab](https://mmlab.ie.cuhk.edu.hk/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/), under the supervision of Prof. [Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/). My research interests primarily lie in multimodal learning, computer vision, generative AI, as well as world modeling.
 
-Before that, I received my master's degree from the School of Computer Science and Technology, [Xi'an Jiaotong University](https://www.xjtu.edu.cn/), supervised by Prof. [Heli Sun](https://gr.xjtu.edu.cn/en/web/hlsun). During my time at XJTU, I was recognized as a 2025 Outstanding Graduate Student of XJTU (Top 15 Master Students) and as a 2026 "Qihang Role" Graduate Student (Top 10 Graduate Students), <span style="color:#8B0000">**which are the highest honors for enrolled and graduating students of XJTU**</span>. I have published multiple first-author, co-first-author, and corresponding-author papers at top-tier CV/NLP/AI venues, including CVPR, ECCV, ACM MM, EMNLP, ACL, IEEE TCSS, and IEEE TGRS. Meanwhile, I led the GenAI Group of XJTU SunFlower Lab and supervised multiple master's and undergraduate students to publish papers at hot venues such as ACM MM, ECCV, IJCAI, IEEE ICME, IEEE SMC, and IJCNN.
+Before that, I received my master's degree from the School of Computer Science and Technology, [Xi'an Jiaotong University](https://www.xjtu.edu.cn/), supervised by Prof. [Heli Sun](https://gr.xjtu.edu.cn/en/web/hlsun). During my time at XJTU, I was recognized as a [2025 Outstanding Graduate Student of XJTU](https://gs.xjtu.edu.cn/info/1144/11150.htm) (Top 15 Master Students) and as a [2026 "Qihang Role" Graduate Student](https://mp.weixin.qq.com/s/-r0-mrnfPV5lY41P12OfVw) (Top 10 Graduate Students), <span style="color:#8B0000">**which are the highest honors for enrolled and graduating students of XJTU**</span>. I have published multiple first-author, co-first-author, and corresponding-author papers at top-tier CV/NLP/AI venues, including CVPR, ECCV, ACM MM, EMNLP, ACL, IEEE TCSS, and IEEE TGRS. Meanwhile, I led the GenAI Group of XJTU SunFlower Lab and supervised multiple master's and undergraduate students to publish papers at hot venues such as ACM MM, ECCV, IJCAI, IEEE ICME, IEEE SMC, and IJCNN.
 
 In 2023, I received my bachelor's degree from the School of Cyber Science and Engineering, [Zhengzhou University](https://www.zzu.edu.cn/), under the supervision of Prof. [Junxiao Xue](https://xuejx7.github.io/) (PI, [Zhejiang Lab](https://www.zhejianglab.org/lab/home) and [Zhejiang University](https://www.zju.edu.cn/)). At ZZU, I was recognized as the 2022-2023 Self-Improvement Star of Chinese College Students (<span style="color:#8B0000">**awarded to only one undergraduate student at ZZU**</span>) and [Individual of ZZU Story](https://www.zzu.edu.cn/info/1217/82540.htm).
 
@@ -367,6 +367,7 @@ NTIRE 2025 T2I Quality Assessment Challenge Participants, including **Xuecheng W
 
 # 🏆 Awards
 
+- **First Prize**, Xi'an Jiaotong University 37th "Tengfei Cup" Innovation and Entrepreneurship Competition, 2026.
 - **Best Paper Honorable Mention Award** for SVC Workshop @ ACM MM 2025.
 - **One Million Deepfakes++ Detection Grand Challenge**, Winner @ ACM MM 2025.
 - **Truthful and Responsible Multimodal Learning Challenge**, Winner @ ACM MM 2025.
@@ -389,11 +390,11 @@ NTIRE 2025 T2I Quality Assessment Challenge Participants, including **Xuecheng W
 - **"Challenge Cup" Undergraduate Academic Science and Technology Works Competition**, Zhengzhou University Second Prize, 2021.
 - **National English Competition for College Students (NECCS)**, Provincial Excellence Award, 2020.
 
+
 # 💖 Honors
 
 - **Excellent Master's Thesis**, Xi'an Jiaotong University, 2026. [Link](https://gs.xjtu.edu.cn/info/1148/11542.htm)
 - **"Qihang Role" Graduate Student**, Xi'an Jiaotong University (Awarded to Top 10 Graduate Students), 2026.
-- **First Prize**, Xi'an Jiaotong University 37th "Tengfei Cup" Innovation and Entrepreneurship Competition, 2026.
 - **National Scholarship**, Ministry of Education of the People's Republic of China (National-Level Honor), 2025.
 - **Outstanding Graduate Student**, Xi'an Jiaotong University (Awarded to Top 15 Master Students), 2025.
 - **Tencent Scholarship**, 2025.
