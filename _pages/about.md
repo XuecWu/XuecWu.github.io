@@ -38,7 +38,8 @@ I am interested in developing a **Predictive Brain** framework through a **Primi
 # 🔥 News
 
 <div class="news-scroll" markdown="1">
-- *2026.07*: Awarded the title of Outstanding Master's Thesis by XJTU!
+- *2026.08*: One paper is accepted by EMNLP 2026 Main Conference 🎉!
+- *2026.07*: Awarded the title of Outstanding Master's Thesis by XJTU 🎉!
 - *2026.07*: Two papers are accepted by ACM MM 2026 🎉!
 - *2026.06*: One paper is accepted by ECCV 2026 🎉!
 - *2026.06*: One paper is accepted by IEEE SMC 2026 🎉!
