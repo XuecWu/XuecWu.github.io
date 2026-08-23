@@ -39,6 +39,7 @@ I am interested in developing a **Predictive Brain** framework through a **Primi
 
 <div class="news-scroll" markdown="1">
 - *2026.08*: One paper is accepted by EMNLP 2026 Main Conference 🎉!
+- *2026.08*: One paper is accepted by MIR 🎉!
 - *2026.07*: Awarded the title of Outstanding Master's Thesis by XJTU 🎉!
 - *2026.07*: Two papers are accepted by ACM MM 2026 🎉!
 - *2026.06*: One paper is accepted by ECCV 2026 🎉!
@@ -434,3 +435,4 @@ As a native student from Henan Province, I am deeply eager to contribute to the 
 - **2024 Entrance:** Liangyu Fu (Northwestern Polytechnical University), Mengli Dai (Harbin Institute of Technology), Qian Zhang (National University of Defense Technology), Rui Wang (Zhengzhou University).
 - **2025 Entrance:** Jie Li (University of Science and Technology of China), Puhao Liu (Northwestern Polytechnical University), Wenbo Yuan (Xidian University), Mengjia Wang (Zhengzhou University), Qi Zhang (Xi'an Jiaotong University), Liduo Wang (Renmin University of China).
 - **2026 Entrance:** Tiqing Hu (University of Chinese Academy of Sciences).
+- **2027 Entrance:** Xinyi Yin (Zhejiang University).
