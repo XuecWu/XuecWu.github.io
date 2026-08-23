@@ -11,7 +11,7 @@ redirect_from:
 
 # ✨ About Me
 
-I am currently a first-year member of [MM Lab](https://mmlab.ie.cuhk.edu.hk/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/), under the supervision of Prof. [Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/). My research interests primarily lie in multimodal learning, computer vision, generative AI, as well as world modeling.
+I am currently a first-year member of [MM Lab](https://mmlab.ie.cuhk.edu.hk/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/), under the supervision of Prof. [Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/). My research interests primarily lie in multimodal learning, computer vision, generative AI, embodied AI, as well as world modeling.
 
 Before that, I received my master's degree from the School of Computer Science and Technology, [Xi'an Jiaotong University](https://www.xjtu.edu.cn/), supervised by Prof. [Heli Sun](https://gr.xjtu.edu.cn/en/web/hlsun). During my time at XJTU, I was recognized as a [2025 Outstanding Graduate Student of XJTU](https://gs.xjtu.edu.cn/info/1144/11150.htm) (Top 15 Master Students) and as a [2026 "Qihang Role" Graduate Student](https://mp.weixin.qq.com/s/-r0-mrnfPV5lY41P12OfVw) (Top 10 Graduate Students), <span style="color:#8B0000">**which are the highest honors for enrolled and graduating students of XJTU**</span>. I have published multiple first-author, co-first-author, and corresponding-author papers at top-tier CV/NLP/AI venues, including CVPR, ECCV, ACM MM, EMNLP, ACL, IEEE TCSS, and IEEE TGRS. Meanwhile, I led the GenAI Group of XJTU SunFlower Lab and supervised multiple master's and undergraduate students to publish papers at hot venues such as ACM MM, ECCV, IJCAI, IEEE ICME, IEEE SMC, and IJCNN.
 
@@ -356,7 +356,7 @@ Junbo Wang, Liangyu Fu, Yuke Li, Yining Zhu, **Xuecheng Wu**, Kun Hu. **arXiv 20
 1. **[DiffVC: A Non-autoregressive Framework Based on Diffusion Model for Video Captioning](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=MuTEp7sAAAAJ&pagesize=100&citation_for_view=MuTEp7sAAAAJ:cFHS6HbyZ2cC)**.<br>
 Junbo Wang, Liangyu Fu, Yuke Li, Yining Zhu, Ya Jing, **Xuecheng Wu**, Jiangbin Zheng. **arXiv 2026**.
 1. **[TR-ICRL: Test-Time Rethinking for In-Context Reinforcement Learning](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=MuTEp7sAAAAJ&pagesize=100&citation_for_view=MuTEp7sAAAAJ:fPk4N6BV_jEC)**.<br>
-Wenxuan Jiang, Yuxin Zuo, Zijian Zhang, **Xuecheng Wu**, Zining Fan, Wenxuan Liu, Li Chen, Xiaoyu Li, Xuezhi Cao, Xiaolong Jin, Ninghao Liu. **arXiv 2026**.
+Wenxuan Jiang, Yuxin Zuo, Zijian Zhang, **Xuecheng Wu**, Zining Fan, Wenxuan Liu, Li Chen, Xiaoyu Li, Xuezhi Cao, Xiaolong Jin, Ninghao Liu. **EMNLP 2026**.
 1. **[V2X-RECT: An Efficient V2X Trajectory Prediction Framework via Redundant Interaction Filtering and Tracking Error Correction](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=MuTEp7sAAAAJ&pagesize=100&citation_for_view=MuTEp7sAAAAJ:GnPB-g6toBAC)**.<br>
 Xiangyan Kong, **Xuecheng Wu**, Xiongwei Zhao, Xiaodong Li, Yunyun Shi, Gang Wang, Dingkang Yang, Yang Liu, Hong Chen, Yulong Gao. **arXiv 2025**.
 1. **[DSACap: Enhancing Visual-Semantic Alignment with Diffusion-based Framework for Image Captioning](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=MuTEp7sAAAAJ&pagesize=100&citation_for_view=MuTEp7sAAAAJ:maZDTaKrznsC)**.<br>
@@ -366,6 +366,7 @@ Junxiao Xue, Jie Wang, Xiaozhen Liu, Peifu Yang, **Xuecheng Wu**, Bin Wu. **IEEE
 
 1. **[NTIRE 2025 Challenge on Text to Image Generation Model Quality Assessment](https://openaccess.thecvf.com/content/CVPR2025/html/Han_NTIRE_2025_Challenge_on_Text_to_Image_Generation_Model_Quality_Assessment_CVPR_2025_paper.html)**.<br>
 NTIRE 2025 T2I Quality Assessment Challenge Participants, including **Xuecheng Wu**. **IEEE/CVF CVPR 2025** <span style="color:red">[CCF-A]</span>.
+
 
 # 🏆 Awards
 
