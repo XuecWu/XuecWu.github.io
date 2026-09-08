@@ -426,7 +426,7 @@ NTIRE 2025 T2I Quality Assessment Challenge Participants, including **Xuecheng W
 
 # 🌹 Academic Services
 
-- **Conference Reviewer:** CVPR, ICCV, NeurIPS, WWW, CICAI, ACM MM, ICME, IEEE BigData, IJCNN, IEEE AVSS, IEEE SMC, EMNLP, AAAI, BMVC, ICML (Silver Reviewer), ECCV.
+- **Conference Reviewer:** CVPR, ICCV, NeurIPS, WWW, CICAI, ACM MM, ICME, IEEE BigData, IJCNN, IEEE AVSS, IEEE SMC, EMNLP, AAAI, BMVC, ICML (Silver Reviewer), ECCV, MMM.
 - **Journal Reviewer:** IEEE TMM, Knowledge-Based Systems (KBS), IEEE TKDE, Intelligent Computing, ACM TOMM, IEEE GRSL, IEEE TCSS, TMLR.
 
 # 🤝 Mentorship
