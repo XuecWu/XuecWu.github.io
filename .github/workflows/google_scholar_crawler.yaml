@@ -1,9 +1,10 @@
 name: Get Citation Data
 
-on: 
- page_build: 
- schedule:
-  - cron:  '0 8 * * *'
+on:
+  page_build:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 8 * * *'
 
 jobs:
   build:
@@ -13,12 +14,27 @@ jobs:
     - name: Install Reqs
       run: |
         sudo apt-get install python3-setuptools
-    - name: Run
+    - name: Check secret
+      run: |
+        if [ -z "$GOOGLE_SCHOLAR_ID" ]; then
+          echo "::error::GOOGLE_SCHOLAR_ID secret is not set. Add it under Settings > Secrets and variables > Actions."
+          exit 1
+        fi
+      env:
+        GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+    - name: Install Python deps
       run: |
         cd ./google_scholar_crawler
         pip3 install -r requirements.txt
+    - name: Fetch citation data
+      run: |
+        cd ./google_scholar_crawler
         python3 main.py
-        cd ./results
+      env:
+        GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+    - name: Commit and push results
+      run: |
+        cd ./google_scholar_crawler/results
         git init
         git config --local user.name "${GITHUB_ACTOR}"
         git config --local user.email "${GITHUB_ACTOR}@users.noreply.github.com"
@@ -26,5 +42,3 @@ jobs:
         git add *.json
         git commit -m "Updated Citation Data"
         git push "${remote_repo}" HEAD:google-scholar-stats --force
-      env: 
-        GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
