@@ -425,6 +425,7 @@ NTIRE 2025 T2I Quality Assessment Challenge Participants, including **Xuecheng W
 - **National Encouragement Scholarship**, National-Level Honor, 2020-2021.
 - **Merit Student**, Zhengzhou University, 2020-2021.
 
+
 # 🌹 Academic Services
 
 - **Conference Reviewer:** CVPR, ICCV, NeurIPS, WWW, CICAI, ACM MM, ICME, IEEE BigData, IJCNN, IEEE AVSS, IEEE SMC, EMNLP, AAAI, BMVC, ICML (Silver Reviewer), ECCV, MMM.
@@ -437,4 +438,4 @@ As a native student from Henan Province, I am deeply eager to contribute to the 
 - **2024 Entrance:** Liangyu Fu (Northwestern Polytechnical University), Mengli Dai (Harbin Institute of Technology), Qian Zhang (National University of Defense Technology), Rui Wang (Zhengzhou University).
 - **2025 Entrance:** Jie Li (University of Science and Technology of China), Puhao Liu (Northwestern Polytechnical University), Wenbo Yuan (Xidian University), Mengjia Wang (Zhengzhou University), Qi Zhang (Xi'an Jiaotong University), Liduo Wang (Renmin University of China).
 - **2026 Entrance:** Tiqing Hu (University of Chinese Academy of Sciences).
-- **2027 Entrance:** Xinyi Yin (University of Science and Technology of China), Yiduo Wang (Southeast University).
+- **2027 Entrance:** Xinyi Yin (University of Science and Technology of China), Yiduo Wang (Southeast University), Ruiyu Ma (Information Engineering University).
