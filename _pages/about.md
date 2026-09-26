@@ -246,13 +246,13 @@ Junxiao Xue, Quan Deng, Tingqi Hu, Meicong Si, Xinyi Yin, Yunyun Shi, **Xuecheng
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to IEEE TCSS 2026</div><img src='images/publications/selected/mood.png?v=20260609_lark' alt="MooD" width="95%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSS 2026</div><img src='images/publications/selected/mood.png?v=20260609_lark' alt="MooD" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **15.** [MooD: Perception-Enhanced Efficient Affective Image Editing via Continuous Valence-Arousal Modeling](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=MuTEp7sAAAAJ&pagesize=100&citation_for_view=MuTEp7sAAAAJ:f2IySw72cVMC)<br>
 Xinyi Yin, Yiduo Wang, Tingqi Hu, Meicong Si, Yunyun Shi, Shi Chen, Hao Wang, Junxiao Xue, **Xuecheng Wu**✉
 
-**Submitted to IEEE TCSS 2026**
+**IEEE TCSS 2026**
 
 </div>
 </div>
