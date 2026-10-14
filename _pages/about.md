@@ -52,6 +52,7 @@ I am interested in developing a **Predictive Brain** framework through a **Primi
 - *2026.02*: Three papers are accepted by CVPR 2026 🎉!
 - *2026.02*: One paper is submitted to KDD 2026.
 - *2026.02*: Two papers are submitted to IEEE TPAMI 2026.
+- *2026.01*: Awarded the title of 2025 Intelligent Computing Best Paper Award 🎉!
 - *2026.01*: Multiple papers are submitted to ICML 2026.
 - *2026.01*: Three papers are submitted to ACL 2026.
 - *2025.12*: One paper is accepted by IEEE TGRS 2025 🎉!
@@ -372,6 +373,7 @@ NTIRE 2025 T2I Quality Assessment Challenge Participants, including **Xuecheng W
 # 🏆 Awards
 
 - **First Prize**, Xi'an Jiaotong University 37th "Tengfei Cup" Innovation and Entrepreneurship Competition, 2026.
+- 2025 Intelligent Computing **Best Paper Award**.
 - **Best Paper Honorable Mention Award** for SVC Workshop @ ACM MM 2025.
 - **One Million Deepfakes++ Detection Grand Challenge**, Winner @ ACM MM 2025.
 - **Truthful and Responsible Multimodal Learning Challenge**, Winner @ ACM MM 2025.
